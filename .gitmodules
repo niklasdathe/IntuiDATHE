@@ -1,0 +1,6 @@
+[submodule "IntuiCAM"]
+	path = IntuiCAM
+	url = https://github.com/niklasdathe/IntuiCAM.git
+[submodule "IntuiGUI"]
+	path = IntuiGUI
+	url = https://github.com/niklasdathe/IntuiGUI.git
